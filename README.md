@@ -3,7 +3,7 @@
 In this repository you find the materials that we have used in the MA/PhD course Digital Humanities and Biblical Studies in 2017 at 
 Vrije Universiteit Amsterdam.
 
-If you want to use these materials, first install [Jupyter](jupyter.org) and [Text-Fabric](https://github.com/Dans-labs/text-fabric/wiki).
+If you want to use these materials, first install [Jupyter](https://jupyter.org) and [Text-Fabric](https://github.com/Dans-labs/text-fabric/wiki).
 
 It consists of a course on Text-Fabric (TF): Introduction_to_Text_Fabric.ipynb . In this course you learn how to extract data from the ETCBC database (BHSA c version). 
 There is also a file with exercises: Introduction_to_Text_Fabric_Assignment.ipynb
