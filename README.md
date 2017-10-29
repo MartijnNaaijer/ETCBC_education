@@ -1,6 +1,6 @@
 # ETCBC_education
 
-In this repository you find the materials that we have used in the PhD course Digital Humanities and Biblical Studies in 2017 at 
+In this repository you find the materials that we have used in the MA/PhD course Digital Humanities and Biblical Studies in 2017 at 
 Vrije Universiteit Amsterdam.
 
 If you want to use these materials, first install [Jupyter](jupyter.org) and [Text-Fabric](https://github.com/Dans-labs/text-fabric/wiki).
